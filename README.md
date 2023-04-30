@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 ## Developing
 
 Install dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
